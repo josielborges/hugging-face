@@ -1,2 +1,3 @@
 transformers==4.51.3
 pysentimiento==0.7.3
+pandas==2.2.3
