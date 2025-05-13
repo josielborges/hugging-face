@@ -1,1 +1,2 @@
 transformers==4.51.3
+pysentimiento==0.7.3
